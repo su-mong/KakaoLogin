@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlogLoginTestKakao</string>
+    <string name="kakao_app_key">앱 키를 여기에 입력해주세요</string>
+</resources>
